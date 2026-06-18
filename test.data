@@ -1,0 +1,15 @@
+# Test data file
+#
+# Format of data:
+# <date-of-birth>,<name>,<color>,<likes-peas>,<dogs-or-cats>
+
+1950-06-25, Bob,        red,      y, dogs
+#1920-12-25, Bob,        gold,     n, dogs
+1955-03-04, Steve,      blue,     n,
+1946-01-02, Don,        green,    n, cats
+1943-04-30, Richard,    cyan,     y, dogs
+1960-12-02, Donna,      purple,   y, both
+1970-02-29, Randy,      orange,   n, dogs
+1949-05-09, Shirley,    pink,     y, dogs
+1952-05-19, Juan,       teal,     y, dogs, tacos
+1939-08-23, Mario,                y, dogs
